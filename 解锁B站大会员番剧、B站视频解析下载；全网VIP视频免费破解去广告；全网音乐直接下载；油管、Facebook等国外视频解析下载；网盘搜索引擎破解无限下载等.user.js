@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name              解锁B站大会员番剧、B站视频解析下载；全网VIP视频免费破解去广告；全网音乐直接下载；油管、Facebook等国外视频解析下载；网盘搜索引擎破解无限下载等
-// @namespace         super_video_helper_cat
+// @namespace         super_video_helper_kemomi
 // @version           4.0.7
 // @description       【❤️ 视频解析，体会拥有VIP的感觉❤️，适配PC+移动 】功能有(可选择性打开)：1、B站使用助手：解锁B站大会员番剧、视频解析下载(可多P下载)、浏览记录等；2、知乎使用助手：内容种类标识、问答显示优化、视频下载等；3、全网VIP视频解析：爱奇艺、腾讯、优酷、芒果等视频免费破解(支持自定义解析接口)；4、全网VIP音乐解析：网易云音乐、QQ音乐、酷狗、荔枝FM、喜马拉雅等免客户端下载；5、油管、Facebook等国外视频解析下载；6、网盘搜索引擎(来搜一下:laisoyixia.com, 小猪快盘:xiaozhukuaipan.com)破解无限下载；7、优惠券查询等；8、搜索引擎导航【脚本长期维护更新，完全免费，无广告】
-// @author            爱画画的猫,小艾特
+// @author            kemomi
 // @icon              data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACS0lEQVRYR8WXz2oTURTGv3MnpqhNKy1UWmxRTGdaiLSQRKkKIoK4FVrRPoHu7BMYn0B3+gQquuiuiC6kaFVsAhGEZkKqG/+Vrtp0YWsyR27KlEwz0xnnT3LgwjB37vl+97tzz9whdDiow/pwBCjofN0AJohwKQgkMxYF8Dmt0bxdnhaAQoWTXMczENJBhFvGMgqk4GY6SZXmPgvAmy/cnYijGqrwvmTVHSQup2jLvG0ByJf5EYDbUQIAeJxR6U4LQHGV1VodesTijfQxBdrkaSrL6z0Hlst8i4An7QBgYDar0lMrgM45ItxrCwDjflajnC+AtR8Gvn8zGpz9xwVOjor/Zma/ANt/GIsLNWxt8p7o4IiAmlLQP+C9pvkG+FoyUPxYs52xhFDPKIh3uRviG2ClWIdsTpHoJYymFNdliQzABBsaEZg4p+DwUftliRxAggwOC0xdidma1RaAI92Ea9OHOgcwPqlANruI1AElhsa2dBKXQJEBnDglGlvxWN/BNcE3gKyCS69b64AUlMISwEv4BpDJ3778i/Xfu5XQtFtaLq+9RiCA6gZj/dcuQN8Audod6kvodYZuz9k7UOK7JPDAbXAY/WxgLjtGDy2f408VPi8MLIUh4JbDELhwNknvLQDyQNoTh87AkFuCIP0E/NzcgWYeTC0bdrkNp6Lm9bc4YM4qr/NzEGaCzNJxLONFRqMbzf22JSu/wlcphhwzpsIAIcIHriGXGadX+/MdWDPflTjRxcH+kLYJhYtj5Piz4/0gF4YVNjk6DvAPDb0aMEr8/nEAAAAASUVORK5CYII=
 // @include           *://*.youku.com/v_*
 // @include           *://*.iqiyi.com/v_*
@@ -601,9 +601,9 @@
 	/**
 	 * 超级解析助手功能
 	 * 
-	 * 原代码作者：小艾特
+	 * 原代码作者：kemomi
 	 * 脚本地址：https://greasyfork.org/zh-CN/scripts/407847
-	 * 视频解析接口来自，作者：懒哈哈
+	 * 视频解析接口来自，作者：kemomi
 	 * 脚本地址：https://greasyfork.org/zh-CN/scripts/370634
 	 * 遵循AGPL License开源协议
 	 */
